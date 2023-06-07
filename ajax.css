@@ -1,0 +1,25 @@
+body{
+    background: #FFD3B0;
+}
+#input{
+    margin-top:12px;
+    text-align:center;
+    height:34px;
+    width:300px;
+    
+}
+#submit{
+    
+    width:79px;
+    height:34px;
+    
+}
+#box {
+    background: #C88EA7;
+    padding-top:5px;
+    height:400px;
+    width:600px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
